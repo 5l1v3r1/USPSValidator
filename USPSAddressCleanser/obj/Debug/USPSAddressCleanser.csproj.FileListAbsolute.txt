@@ -1,1 +1,14 @@
 d:\users\nico_1kfpb\documents\visual studio 2015\Projects\USPSAddressCleanser\USPSAddressCleanser\bin\Debug\USPSAddressCleanser.exe.config
+C:\Users\nicom\Documents\GitHub\USPSValidator\USPSAddressCleanser\bin\Debug\USPSAddressCleanser.exe.config
+C:\Users\nicom\Documents\GitHub\USPSValidator\USPSAddressCleanser\obj\Debug\USPSAddressCleanser.csprojResolveAssemblyReference.cache
+C:\Users\nicom\Documents\GitHub\USPSValidator\USPSAddressCleanser\bin\Debug\USPSAddressCleanser.exe
+C:\Users\nicom\Documents\GitHub\USPSValidator\USPSAddressCleanser\bin\Debug\USPSAddressCleanser.pdb
+C:\Users\nicom\Documents\GitHub\USPSValidator\USPSAddressCleanser\bin\Debug\HtmlAgilityPack.dll
+C:\Users\nicom\Documents\GitHub\USPSValidator\USPSAddressCleanser\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\nicom\Documents\GitHub\USPSValidator\USPSAddressCleanser\bin\Debug\HtmlAgilityPack.xml
+C:\Users\nicom\Documents\GitHub\USPSValidator\USPSAddressCleanser\obj\Debug\USPSAddressCleanser.exe
+C:\Users\nicom\Documents\GitHub\USPSValidator\USPSAddressCleanser\obj\Debug\USPSAddressCleanser.pdb
+C:\Users\nicom\Documents\GitHub\USPSValidator\USPSAddressCleanser\bin\Debug\Fizzler.dll
+C:\Users\nicom\Documents\GitHub\USPSValidator\USPSAddressCleanser\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\nicom\Documents\GitHub\USPSValidator\USPSAddressCleanser\bin\Debug\Fizzler.xml
+C:\Users\nicom\Documents\GitHub\USPSValidator\USPSAddressCleanser\bin\Debug\Fizzler.Systems.HtmlAgilityPack.xml
